@@ -13,7 +13,7 @@ var mochaOpts = {
 };
 
 gulp.task('test', () => {
-    return gulp.src('./test/saleshelloboxtab.js')
+    return gulp.src('./test/test-webdriver.js')
         .pipe(mocha())
         .once('error', () => {
             process.exit(1);
@@ -24,7 +24,7 @@ gulp.task('test', () => {
 });
 
 gulp.task('default', () => {
-    return gulp.src('./test/saleshelloboxtab.js')
+      return gulp.src('./test/test-webdriver.js')
         .pipe(mocha())
         .once('error', () => {
             process.exit(1);

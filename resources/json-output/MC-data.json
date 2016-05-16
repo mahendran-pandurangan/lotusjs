@@ -1,0 +1,13 @@
+[
+	{
+		"calculateButton": "xpath=.//*[@id='calc']/form/section/section[2]/div/div/div[1]/div/div/div[3]/div[1]/div[1]/div[9]/input",
+		"flag": "Y",
+		"url": "http://www.mortgagecalculator.org/",
+		"homeValueXpath": "xpath=.//*[@id='calc']/form/section/section[2]/div/div/div[1]/div/div/div[3]/div[1]/div[1]/div[1]/input",
+		"homeValue": "350000",
+		"loanAmountXpath": "xpath=.//*[@id='loanamt']",
+		"loanAmount": "250000",
+		"interestXpath": "xpath=.//*[@id='intrstsrate']",
+		"interestRate": "4.5"
+	}
+]

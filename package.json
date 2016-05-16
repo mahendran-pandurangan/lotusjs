@@ -1,9 +1,9 @@
 {
-  "name": "galactusjs",
+  "name": "lotusjs",
   "version": "1.0.0",
-  "description": "Galactus-JS",
+  "description": "Lotus-JS",
   "main": "index.js",
-  "author": "Mahendran Pandurangan",
+  "author": "jaanumahe",
   "license": "ISC",
   "devDependencies": {
     "chai": "^3.5.0",
