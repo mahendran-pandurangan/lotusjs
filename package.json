@@ -5,6 +5,10 @@
   "main": "index.js",
   "author": "jaanumahe",
   "license": "ISC",
+  "repository":{
+    "type":"git",
+    "url": "git@github.com:jaanumahe/lotusjs.git"
+  },
   "devDependencies": {
     "chai": "^3.5.0",
     "colors": "^1.1.2",
