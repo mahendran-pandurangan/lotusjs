@@ -5,14 +5,15 @@
   "main": "index.js",
   "author": "jaanumahe",
   "license": "ISC",
-  "repository":{
-    "type":"git",
+  "repository": {
+    "type": "git",
     "url": "git@github.com:jaanumahe/lotusjs.git"
   },
   "devDependencies": {
     "chai": "^3.5.0",
     "colors": "^1.1.2",
     "custom-logger": "^0.3.1",
+    "deasync": "^0.1.6",
     "good-mocha-html-reporter": "^2.0.0",
     "gulp": "^3.9.1",
     "gulp-mocha": "^2.2.0",
