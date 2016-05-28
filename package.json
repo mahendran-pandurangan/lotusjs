@@ -1,10 +1,13 @@
 {
   "name": "lotusjs",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "Lotus-JS",
   "main": "index.js",
   "author": "jaanumahe",
   "license": "ISC",
+  "publishConfig": {
+    "registry":"https://registry.npmjs.org/"
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com:jaanumahe/lotusjs.git"
