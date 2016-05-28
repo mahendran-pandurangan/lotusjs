@@ -37,7 +37,8 @@ Sauce safari: gulp test --remote=sauce --browser=safari
 Mocha run(picks default tests under test folder): mocha
 Mocha along with reporter: mocha -R good-mocha-html-reporter
 npm: ./node_modules/gulp/bin/gulp.js
-npm mocha: ./node_modules/mocha/bin/mocha```
+npm mocha: ./node_modules/mocha/bin/mocha
+Grunt: grunt webdriver:chrome```
 
 sonar
 gulp sonar
