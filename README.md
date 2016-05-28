@@ -1,4 +1,4 @@
-# lotusjs
+# lotusjs - https://www.npmjs.com/package/lotusjs
 
 ####npm -
 Node package manager. It is a command-line utility for interacting with repository that aids in package installation, version management and dependency management
