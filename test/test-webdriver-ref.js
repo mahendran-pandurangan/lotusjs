@@ -1,19 +1,14 @@
-var logger = require('../lib/logger.js');
-var xlProvider = require('../lib/excel-provider.js');
-var common = require('../lib/common-util.js');
+var xlProvider = require('../lib/excel-provider');
+var common = require('../lib/common-util');
 var test = require('selenium-webdriver/testing');
-
-const mochaTimeOut = 90000;
+var lotus = require('../main/Lotus');
+const mochaTimeOut = 30000;
 
 test.describe('Mortgage-Calculator', function() {
   this.timeout(mochaTimeOut);
-    before('Excel-JSON', function() {
-        xlProvider.xlProvider('resources/datasheet/MortCalc.xlsx', 'MC', 'resources/json-output/MC-data.json');
-    });
-
     test.it('DDT-Mort-Calc', function(done) {
         this.timeout(mochaTimeOut);
-        var dataProvider = require('../resources/json-output/MC-data.json');
+        var dataProvider = lotus.ds.readExcelData('./resources/datasheet/MortCalc.xlsx', 'MC');
         dataProvider.forEach(function(readData) {
           if (readData.url !== '' && readData.flag === 'Y') {
             try {
