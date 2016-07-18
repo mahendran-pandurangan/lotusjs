@@ -46,7 +46,7 @@ gulp.task('sonar', function() {
                 password: 'sonar'
             },
             projectKey: 'sonar:grunt-sonar-runner:0.1.0',
-            projectName: 'galactus-qbo-Sonar',
+            projectName: 'Sonar',
             projectVersion: '1.0.0',
             sources: ['lib', 'pages', 'test'].join(','),
             language: 'js',
