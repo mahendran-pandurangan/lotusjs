@@ -3,14 +3,14 @@
   "version": "0.0.2",
   "description": "Lotus-JS",
   "main": "index.js",
-  "author": "jaanumahe",
+  "author": "Mahendran Pandurangan",
   "license": "ISC",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:jaanumahe/lotusjs.git"
+    "url": "git@github.com:mahendran-pandurangan/lotusjs.git"
   },
   "devDependencies": {
     "chai": "^3.5.0",
