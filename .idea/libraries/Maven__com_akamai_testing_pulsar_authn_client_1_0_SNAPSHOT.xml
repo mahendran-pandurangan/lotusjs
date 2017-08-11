@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.akamai.testing:pulsar-authn-client:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/akamai/testing/pulsar-authn-client/1.0-SNAPSHOT/pulsar-authn-client-1.0-20160204.112746-9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/akamai/testing/pulsar-authn-client/1.0-SNAPSHOT/pulsar-authn-client-1.0-20160204.112746-9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/akamai/testing/pulsar-authn-client/1.0-SNAPSHOT/pulsar-authn-client-1.0-20160204.112746-9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

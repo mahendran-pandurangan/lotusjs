@@ -1,0 +1,14 @@
+
+Zsquid:S2147"ECombine this catch with the one at line 139, which has the same body.(”ı¾
+ssquid:S3008"YRename this field "DB_CONFIG_FILE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í¡„úúÿÿÿÿ
+;squid:S1659"&Declare "password" on a separate line.(Šãô³
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+hsquid:S1192"SDefine a constant instead of duplicating this literal "cassandra.keyspace" 3 times.(À¨•½
+Dsquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+_squid:S2147"ECombine this catch with the one at line 139, which has the same body.(Ùˆ²øÿÿÿÿ
+Dsquid:S2440"*Remove this instantiation of "SSLOptions".(èŒ‰ÿüÿÿÿÿ
+;squid:S1659"&Declare "username" on a separate line.(Šãô³
+ksquid:S1450"VRemove the "cluster" field and declare it as a local variable in the relevant methods.(Çë©ğ
+:squid:S1166"%Either log or rethrow this exception.(”ı¾
+Zsquid:S2259"ENullPointerException might be thrown as 'trustStore' is nullable here(Âó­ç
+_squid:S2147"ECombine this catch with the one at line 139, which has the same body.(Ğ®“—øÿÿÿÿ

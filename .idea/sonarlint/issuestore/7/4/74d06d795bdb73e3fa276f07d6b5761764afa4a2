@@ -1,0 +1,17 @@
+
+Nsquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(Æ•Şıÿÿÿÿ
+Ksquid:S2629"7Use the built-in formatting to construct this argument.(¾ìˆl
+squid:S1132"gMove the "application/x-www-form-urlencoded" string literal on the left side of this string comparison.(ÙœÎşùÿÿÿÿ
+bsquid:S1850"HRemove this useless "instanceof" operator; it will always return "true".(ÆÀ™¨ÿÿÿÿÿ
+Wsquid:S2259"BNullPointerException might be thrown as 'request' is nullable here(Ùµ«É
+Ysquid:S1226"DIntroduce a new variable instead of reusing the parameter "baseUrl".(©±¼Ö
+Wsquid:S2259"BNullPointerException might be thrown as 'content' is nullable here(¥Ô¬
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(×ò²„ÿÿÿÿÿ
+^squid:S1226"DIntroduce a new variable instead of reusing the parameter "baseUrl".(£’áíşÿÿÿÿ
+_squid:S1132"JMove the "POST" string literal on the left side of this string comparison.(ìßØÚ
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(ÈËëé
+psquid:S1132"VMove the "application/json" string literal on the left side of this string comparison.(ÆÀ™¨ÿÿÿÿÿ
+^squid:S1132"IMove the "PUT" string literal on the left side of this string comparison.(ìßØÚ
+fsquid:S1132"QMove the "imaging-dev" string literal on the left side of this string comparison.(Òœ×
+?squid:S1166"%Either log or rethrow this exception.(È‘ˆŒşÿÿÿÿ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(ë¢¸Óùÿÿÿÿ

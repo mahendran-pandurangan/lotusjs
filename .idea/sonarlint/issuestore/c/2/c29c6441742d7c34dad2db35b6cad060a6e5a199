@@ -1,0 +1,58 @@
+
+squid:S1192"xDefine a constant instead of duplicating this literal "xpath=//div[@id='infoPanel']/table[1]/tbody/tr[2]/th[2]" 4 times.(ˆ™§¹
+?squid:S1166"%Either log or rethrow this exception.(ÙŸßùÿÿÿÿ
+^squid:UselessImportCheck"7Remove this unused import 'com.intuit.autolib.TestBed'.(–®âşÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(•ö–€ùÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+?squid:S1166"%Either log or rethrow this exception.(áÊš’ıÿÿÿÿ
+lsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¸ 
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ùœ·şÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck"WMake elementTest a static final constant or non-public and provide accessors if needed.(›£”Ò
+dsquid:S1132"JMove the "perf" string literal on the left side of this string comparison.(‘İœşÿÿÿÿ
+psquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(øš²#
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(œ›½È
+\squid:S1132"HMove the "qa" string literal on the left side of this string comparison.(éÚİf
+Isquid:S1172"/Remove this unused method parameter "pageName".(à¯ëŒüÿÿÿÿ
+:squid:S1166"%Either log or rethrow this exception.(¾“ĞĞ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(îµ•ãøÿÿÿÿ
+9squid:S2629"$Invoke method(s) only conditionally.(¡–âô
+g
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+Isquid:S1172"/Remove this unused method parameter "pageName".(üÃÓşÿÿÿÿ
+ksquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ïâ/
+\squid:S1192"GDefine a constant instead of duplicating this literal "Header" 3 times.(¢Ú™¿
+?squid:S1166"%Either log or rethrow this exception.(ÙŸßùÿÿÿÿ
+asquid:S1132"LMove the "Header" string literal on the left side of this string comparison.(¢Ú™¿
+8squid:S1148"#Use a logger to log this exception.(İ¢—²
+9squid:S2629"$Invoke method(s) only conditionally.(šŞ¢°
+bsquid:S1132"HMove the "qa" string literal on the left side of this string comparison.(‘İœşÿÿÿÿ
+psquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(øš²#
+asquid:S1132"LMove the "Header" string literal on the left side of this string comparison.(¢Ú™¿
+[squid:S1854"FRemove this useless assignment to local variable "curentWindowHandle".(¾ó
+ksquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Óo
+asquid:S1132"LMove the "Header" string literal on the left side of this string comparison.(„½ú
+Psquid:UselessImportCheck".Remove this unused import 'org.testng.Assert'.(Ø£ÿ§
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(ÛŸ¥øÿÿÿÿ
+Csquid:S1172"/Remove this unused method parameter "pageName".(÷ïâ/
+Dsquid:S1172"/Remove this unused method parameter "pageName".(’›±è
+csquid:S1854"IRemove this useless assignment to local variable "expectedChatWindowURL".(•²ëÑûÿÿÿÿ
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ùœ·şÿÿÿÿ
+Csquid:S1172"/Remove this unused method parameter "pageName".(ˆ‹n
+fsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(°Óo
+a
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(éÚİf
+8squid:S1148"#Use a logger to log this exception.(İ¢—²
+:squid:S1166"%Either log or rethrow this exception.(¾“ĞĞ
+9squid:S2629"$Invoke method(s) only conditionally.( ŸÃ§
+`squid:S1132"LMove the "Sticky" string literal on the left side of this string comparison.(ûÃù&
+Lsquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+`squid:S1132"LMove the "Sticky" string literal on the left side of this string comparison.(ûÃù&
+Vsquid:S1854"ARemove this useless assignment to local variable "chatWindowUrl".(ÕÓ¦½
+|"squid:ClassVariableVisibilityCheck"PMake drop a static final constant or non-public and provide accessors if needed.(´íªâ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+lsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š– ¤
+Csquid:S1125")Remove the literal "false" boolean value.(²„°Êûÿÿÿÿ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(Ş¦ëìüÿÿÿÿ
+b
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Ö‘Êû
+dsquid:S1132"JMove the "perf" string literal on the left side of this string comparison.(¾ëä‡üÿÿÿÿ

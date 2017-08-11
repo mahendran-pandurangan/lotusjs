@@ -1,0 +1,14 @@
+
+bsquid:S1871"HThis case's code block is the same as the block for the case on line 17.(ž®²Âøÿÿÿÿ
+Ksquid:S1854"6Remove this useless assignment to local variable "wd".(å¥íÍ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±¯€¤
+<squid:S1481"'Remove this unused "wd" local variable.(å¥íÍ
+@squid:S1172"+Remove this unused method parameter "caps".(Ô¾Ñý
+]squid:S1871"HThis case's code block is the same as the block for the case on line 17.(¾µš¤
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±¯€¤
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±¯€¤
+bsquid:S1871"HThis case's code block is the same as the block for the case on line 17.(šÐµ·üÿÿÿÿ
+_squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ï¼´
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±¯€¤
+:squid:S1166"%Either log or rethrow this exception.(”ý¾
+wsquid:S1192"bDefine a constant instead of duplicating this literal "BrowserType not yet implemented: " 4 times.(Ž¦À¹

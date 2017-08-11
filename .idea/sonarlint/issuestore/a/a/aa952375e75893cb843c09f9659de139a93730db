@@ -1,0 +1,85 @@
+
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ãÙÁÆûÿÿÿÿ
+esquid:S1192"PDefine a constant instead of duplicating this literal " Attribute for " 4 times.(ãÌ¦ş
+b
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(‚£ß
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(ãÌ¦ş
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ãÙÁÆûÿÿÿÿ
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(×‘ü“ùÿÿÿÿ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(ï³›®şÿÿÿÿ
+Isquid:S1066"/Merge this if statement with the enclosing one.(¡ßîÿÿÿÿÿ
+Xsquid:UnusedPrivateMethod"5Remove this unused private "getWebDriverWait" method.(ªıŸö
+‘squid:S1319"wThe type of the "expectedCookies" object should be an interface such as "Map" rather than the implementation "HashMap".(ÕÀ×¡ÿÿÿÿÿ
+bsquid:S1132"HMove the "NA" string literal on the left side of this string comparison.(ÁºÉ–ÿÿÿÿÿ
+bsquid:S1132"HMove the "NA" string literal on the left side of this string comparison.(ğõÇñşÿÿÿÿ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(ôÎôşÿÿÿÿ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(Îš±¢øÿÿÿÿ
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(ãÌ¦ş
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(üÂ‡…úÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"SMake pageURL a static final constant or non-public and provide accessors if needed.(‹ÆÀ’
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(ªº¯‰
+Jsquid:S1444"0Make this "public static pageLabels" field final(ä¨´¿ûÿÿÿÿ
+‡squid:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(§Éùúÿÿÿÿ
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ªé‹ùÿÿÿÿ
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(€¶ò¬
+Asquid:S1444",Make this "public static groups" field final(ÁĞƒ
+bsquid:S1132"HMove the "NA" string literal on the left side of this string comparison.(ÁºÉ–ÿÿÿÿÿ
+:squid:S1166"%Either log or rethrow this exception.(—¤”˜
+Csquid:S1125")Remove the literal "false" boolean value.(›°ş¬øÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ªß¢ä
+dsquid:S1132"JMove the "prod" string literal on the left side of this string comparison.(ªßŠ›úÿÿÿÿ
+bsquid:S1132"HMove the "NA" string literal on the left side of this string comparison.(ğõÇñşÿÿÿÿ
+squid:S1319"zThe type of the "expectedAttributes" object should be an interface such as "Map" rather than the implementation "HashMap".(‡€”¢
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(ª…á¿
+xsquid:S1488"cImmediately return this expression instead of assigning it to the temporary variable "cookieValue".(‡Ñ„¹
+Psquid:S1854";Remove this useless assignment to local variable "keyName".(Ï…¨µ
+Psquid:S1854";Remove this useless assignment to local variable "keyName".(Ï…¨µ
+Tsquid:S1854"@Remove this useless assignment to local variable "expectedData".(©î{
+[squid:S1854"FRemove this useless assignment to local variable "isNewWindowPresent".(äôç¼
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(»ÛÅ€
+qsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Ê–ÎÙ
+zsquid:S1450"`Remove the "loginElementsData" field and declare it as a local variable in the relevant methods.(Âşıÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ªß¢ä
+:squid:S1166"%Either log or rethrow this exception.(—¤”˜
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(Äùã
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(»ÛÅ€
+`squid:S1192"FDefine a constant instead of duplicating this literal "xpath" 3 times.(¬è´—øÿÿÿÿ
+msquid:S1192"SDefine a constant instead of duplicating this literal "Page_Variants_Data" 3 times.(í“ó™ûÿÿÿÿ
+‡"squid:ClassVariableVisibilityCheck"VMake pageLabels a static final constant or non-public and provide accessors if needed.(ä¨´¿ûÿÿÿÿ
+\squid:S1132"GMove the "/" string literal on the left side of this string comparison.(ë¶Ç
+Gsquid:S1068"-Remove this unused "waitCount" private field.(õ¡Òşÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(¦Çøÿÿÿÿ
+Rsquid:S1854"8Remove this useless assignment to local variable "temp".(â·Î¶ùÿÿÿÿ
+[squid:S1854"FRemove this useless assignment to local variable "curentWindowHandle".(¾ó
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(üı€ùÿÿÿÿ
+‡squid:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(²¯éĞÿÿÿÿÿ
+]squid:S1132"HMove the "NA" string literal on the left side of this string comparison.(÷˜±·
+Nsquid:S1854":Remove this useless assignment to local variable "envURL".(ÖÎ…@
+Tsquid:S1854"@Remove this useless assignment to local variable "expectedData".(©î{
+_squid:UnusedPrivateMethod"7Remove this unused private "isNewWindowPresent" method.(µøú¬ÿÿÿÿÿ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(üı€ùÿÿÿÿ
+qsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Ê–ÎÙ
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ûÿ±İúÿÿÿÿ
+†"squid:ClassVariableVisibilityCheck"UMake suiteName a static final constant or non-public and provide accessors if needed.(˜Ï§ úÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(œæ¬Ğüÿÿÿÿ
+qsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(­§ºå
+Jsquid:S1068"0Remove this unused "excellReader" private field.(ş¸œÀüÿÿÿÿ
+Csquid:S1068")Remove this unused "flows" private field.(İ²¨øÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(œæ¬Ğüÿÿÿÿ
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Ü°–Äÿÿÿÿÿ
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(€¶ò¬
+csquid:S1192"IDefine a constant instead of duplicating this literal "https://" 4 times.(Òã·ëùÿÿÿÿ
+Ksquid:S2629"7Use the built-in formatting to construct this argument.(ÁÉÂ,
+Dsquid:S1066"/Merge this if statement with the enclosing one.(‹¹©
+:squid:S1166"%Either log or rethrow this exception.(åÚõ˜
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÿĞÃúÿÿÿÿ
+~"squid:ClassVariableVisibilityCheck"RMake groups a static final constant or non-public and provide accessors if needed.(ÁĞƒ
+=squid:S1125"(Remove the literal "true" boolean value.(Ùº
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ø±€•şÿÿÿÿ
+Isquid:S1444"/Make this "public static suiteName" field final(˜Ï§ úÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(ı›×±úÿÿÿÿ
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(¶Ãæ¹
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(ªº¯‰
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(×Â
+bsquid:S1192"HDefine a constant instead of duplicating this literal "http://" 3 times.(Éş¾¯ÿÿÿÿÿ

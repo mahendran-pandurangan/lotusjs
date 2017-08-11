@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.akamai.testing:restassured-utils:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/akamai/testing/restassured-utils/1.0-SNAPSHOT/restassured-utils-1.0-20160315.101815-39.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/akamai/testing/restassured-utils/1.0-SNAPSHOT/restassured-utils-1.0-20160315.101815-39-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/akamai/testing/restassured-utils/1.0-SNAPSHOT/restassured-utils-1.0-20160315.101815-39-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

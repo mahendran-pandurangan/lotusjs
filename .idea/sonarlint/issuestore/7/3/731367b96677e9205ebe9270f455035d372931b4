@@ -1,0 +1,72 @@
+
+[squid:UnusedPrivateMethod"8Remove this unused private "getCurrentTimestamp" method.(ğÄÑî
+hsquid:S2077"N"tableName" is provided externally to the method and not sanitized before use.(àø„˜úÿÿÿÿ
+jsquid:S2077"P"metadataVer" is provided externally to the method and not sanitized before use.(àø„˜úÿÿÿÿ
+hsquid:S2077"N"tableName" is provided externally to the method and not sanitized before use.(àø„˜úÿÿÿÿ
+dsquid:S2077"J"cname" is provided externally to the method and not sanitized before use.(àø„˜úÿÿÿÿ
+dsquid:S2077"J"cname" is provided externally to the method and not sanitized before use.(àø„˜úÿÿÿÿ
+hsquid:S2077"N"tableName" is provided externally to the method and not sanitized before use.(àø„˜úÿÿÿÿ
+gsquid:S2077"M"cronName" is provided externally to the method and not sanitized before use.(àø„˜úÿÿÿÿ
+esquid:S2077"K"cronId" is provided externally to the method and not sanitized before use.(àø„˜úÿÿÿÿ
+esquid:S2077"K"cronId" is provided externally to the method and not sanitized before use.(àø„˜úÿÿÿÿ
+esquid:S2077"K"cronId" is provided externally to the method and not sanitized before use.(àø„˜úÿÿÿÿ
+esquid:S2077"K"cronId" is provided externally to the method and not sanitized before use.(àø„˜úÿÿÿÿ
+dsquid:S2077"J"jobId" is provided externally to the method and not sanitized before use.(àø„˜úÿÿÿÿ
+isquid:S2077"O"targetName" is provided externally to the method and not sanitized before use.(àø„˜úÿÿÿÿ
+squid:S1192"sDefine a constant instead of duplicating this literal "SELECT * FROM cname_entries_cnp where cname_id = ?" 3 times.(ßŸî±şÿÿÿÿ
+‘squid:S1192"wDefine a constant instead of duplicating this literal ".METADATA_CONTENT from EHP_CHANGES_METADATA_VERSIONS, " 3 times.(î¤åİıÿÿÿÿ
+jsquid:S1192"PDefine a constant instead of duplicating this literal ".METADATA_VER, " 3 times.(î¤åİıÿÿÿÿ
+lsquid:S1192"RDefine a constant instead of duplicating this literal "WHERE change_id=?" 8 times.(ïŞËüÿÿÿÿ
+xsquid:S1192"cDefine a constant instead of duplicating this literal "SELECT * FROM cname_changes_table " 3 times.(ÜßÕû
+„squid:S1192"oDefine a constant instead of duplicating this literal "SELECT * FROM cname_entries where cname_id = ?" 3 times.(Ù™×ã
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(àø„˜úÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‡í¥ùÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ûüÄ÷ıÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«ò´¤
+osquid:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "rs".(·¦Ã…
+osquid:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "rs".(·¦Ã…
+osquid:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "rs".(·¦Ã…
+osquid:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "rs".(·¦Ã…
+osquid:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "rs".(·¦Ã…
+osquid:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "rs".(·¦Ã…
+osquid:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "rs".(·¦Ã…
+Osquid:S1133"5Do not forget to remove this deprecated code someday.(‚Æı‡ıÿÿÿÿ
+Jsquid:S1133"5Do not forget to remove this deprecated code someday.(šó•Æ
+Gsquid:S1135"2Complete the task associated to this TODO comment.(ğçïµ
+Rsquid:MissingDeprecatedCheck"'Add the missing @Deprecated annotation.(‚Æı‡ıÿÿÿÿ
+Msquid:MissingDeprecatedCheck"'Add the missing @Deprecated annotation.(šó•Æ
+vsquid:UselessImportCheck"ORemove this unused import 'com.akamai.pulsar.cname.provisioning.dsl.CronsEnum'.(Ö´´²øÿÿÿÿ

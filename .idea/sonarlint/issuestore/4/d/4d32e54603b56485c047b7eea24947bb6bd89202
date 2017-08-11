@@ -1,0 +1,6 @@
+
+Zsquid:S2147"ECombine this catch with the one at line 153, which has the same body.(”ı¾
+ssquid:S3008"YRename this field "DB_CONFIG_FILE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í¡„úúÿÿÿÿ
+\squid:S1192"GDefine a constant instead of duplicating this literal "dbuser" 4 times.(ÍßË
+Zsquid:S2147"ECombine this catch with the one at line 188, which has the same body.(”ı¾
+2squid:S2095"Close this "Connection".(£­êüÿÿÿÿ

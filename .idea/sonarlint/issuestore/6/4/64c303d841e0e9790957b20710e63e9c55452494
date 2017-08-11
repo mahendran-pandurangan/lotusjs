@@ -1,0 +1,22 @@
+
+Usquid:S2184"@Cast one of the operands of this addition operation to a "long".(˜¯˜Ö
+`squid:S3027"FPut single-quotes around '.' to use the faster "indexOf(char)" method.(·óÃÓùÿÿÿÿ
+msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Š•í­ýÿÿÿÿ
+hsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(°ÌÎ›
+msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(úžÎ¨ýÿÿÿÿ
+msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(’¬ðóþÿÿÿÿ
+hsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÒâÙ·
+msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ø­î¢ûÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(¼¾ªýùÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(¼¾ªýùÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(¼¾ªýùÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(ªµ·üøÿÿÿÿ
+[squid:S1226"AIntroduce a new variable instead of reusing the parameter "date".(·óÃÓùÿÿÿÿ
+Tsquid:S1118":Add a private constructor to hide the implicit public one.(Ž¿ƒÄýÿÿÿÿ
+[squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ

@@ -1,0 +1,101 @@
+
+Usquid:S1854";Remove this useless assignment to local variable "encoded".(Ùœ‘¢ıÿÿÿÿ
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¡»¡·ıÿÿÿÿ
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(ñ»ùË
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(à ¿çøÿÿÿÿ
+Fsquid:S1481",Remove this unused "encoded" local variable.(Ùœ‘¢ıÿÿÿÿ
+]squid:S1132"HMove the "NA" string literal on the left side of this string comparison.(ıˆ”
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(ôÑ”É
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(¥È£ıÿÿÿÿ
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(ƒ—˜
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(ÓÚğÄüÿÿÿÿ
+?squid:S00108")Either remove or fill this block of code.(”ı¾
+Dsquid:S00108")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+squid:S1192"tDefine a constant instead of duplicating this literal "//nexus.ensighten.com/intuit/sbg-stage/Bootstrap.js" 3 times.(£×ç—øÿÿÿÿ
+Wsquid:S1854"=Remove this useless assignment to local variable "suiteName".(‘Ì…¿ûÿÿÿÿ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(×‘÷Ìûÿÿÿÿ
+3squid:S2178"Correct this "&" to "&&".(ÑÏÒÎÿÿÿÿÿ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(ÚêçØúÿÿÿÿ
+:squid:S1166"%Either log or rethrow this exception.(”ı¾
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(¤éëÕ
+asquid:S1192"LDefine a constant instead of duplicating this literal "Expected   " 3 times.(µ½§”
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(óÖé¹
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(ùºÙÅşÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(îËˆÚüÿÿÿÿ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(ûÔ‘ùÿÿÿÿÿ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(¬á¬ıÿÿÿÿ
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(£×ç—øÿÿÿÿ
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(°Á©Ó
+esquid:S1192"KDefine a constant instead of duplicating this literal "Actual    " 3 times.(¦î´öûÿÿÿÿ
+~squid:S1450"dRemove the "qbo_sctimerCookieName" field and declare it as a local variable in the relevant methods.(¢ğ¥¡ùÿÿÿÿ
+Csquid:S1068".Remove this unused "pageAction" private field.(Ÿ—’ÿ
+csquid:S1192"IDefine a constant instead of duplicating this literal "response" 3 times.(™ö¼±øÿÿÿÿ
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢†®Æşÿÿÿÿ
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(µ½§”
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ß¬û
+asquid:S1132"LMove the "qa.sr." string literal on the left side of this string comparison.(º…Œ
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(€ñê¨ıÿÿÿÿ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(µÍüÿÿÿÿ
+g
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ƒòˆìûÿÿÿÿ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(¦î´öûÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ó¸Éâûÿÿÿÿ
+]squid:S1192"HDefine a constant instead of duplicating this literal "message" 4 times.(“Á¢ò
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(†³µ´
+g
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(é§ÆÛşÿÿÿÿ
+Msquid:UselessParenthesesCheck"!Remove those useless parentheses.(¢¡£áúÿÿÿÿ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(áìëÂûÿÿÿÿ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(ê¼»†şÿÿÿÿ
+\squid:S1192"GDefine a constant instead of duplicating this literal "params" 4 times.(“Á¢ò
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Éìš
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(Û°æœúÿÿÿÿ
+Ksquid:S2629"7Use the built-in formatting to construct this argument.(¨åî_
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(ãÂ‰¡
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(£×ç—øÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(Í˜¿®
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(ğİÇÆ
+Hsquid:UselessParenthesesCheck"!Remove those useless parentheses.(Ôìæƒ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±ÏîÌıÿÿÿÿ
+vsquid:S00116"[Rename this field "qbo_scCookieName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅŠ–ùÿÿÿÿ
+-squid:S2178"Correct this "&" to "&&".(ºÛì/
+[squid:S1192"FDefine a constant instead of duplicating this literal "UTF-8" 4 times.(¡î³â
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸€âıÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¯æ‘ÿÿÿÿÿ
+dsquid:S1132"JMove the "prod" string literal on the left side of this string comparison.(£ŒÁşÿÿÿÿ
+3squid:S2178"Correct this "&" to "&&".(†’¹Şûÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(ÕÓ÷Š
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(ÈÙ­
+ysquid:S1450"_Remove the "qbo_scCookieName" field and declare it as a local variable in the relevant methods.(ÅŠ–ùÿÿÿÿ
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(º¡Õ³
+hsquid:S1132"NMove the "perf.sr." string literal on the left side of this string comparison.(™Ğá›øÿÿÿÿ
+?squid:S1166"%Either log or rethrow this exception.(¬Àáªøÿÿÿÿ
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢†®Æşÿÿÿÿ
+:squid:S1166"%Either log or rethrow this exception.(”ı¾
+esquid:S1192"KDefine a constant instead of duplicating this literal "http://ci." 3 times.(ÿÅ“Éüÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(®ã–šüÿÿÿÿ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(¬é°£øÿÿÿÿ
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢†®Æşÿÿÿÿ
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(µ´©’
+dsquid:S1132"JMove the "prod" string literal on the left side of this string comparison.(ªßŠ›úÿÿÿÿ
+:squid:S1166"%Either log or rethrow this exception.(”ı¾
+{squid:S00116"`Rename this field "qbo_sctimerCookieName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ğ¥¡ùÿÿÿÿ
+bsquid:S1132"HMove the "NA" string literal on the left side of this string comparison.(üÒòÿÿÿÿÿ
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(¿êì
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(ùí¦şÿÿÿÿ
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(Ø“¯¯
+b
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(±Ğó•
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(¤µòùÿÿÿÿ
+qsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(‚Ÿ¥£
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(µ½§”
+nsquid:S1192"YDefine a constant instead of duplicating this literal "Network.responseReceived" 3 times.(Äµÿø
+g
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ÿÅ“Éüÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

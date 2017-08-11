@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.akamai.taf.star.mg:core:3.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/akamai/taf/star/mg/core/3.0-SNAPSHOT/core-3.0-20160204.112912-41.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/akamai/taf/star/mg/core/3.0-SNAPSHOT/core-3.0-20160204.112912-41-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/akamai/taf/star/mg/core/3.0-SNAPSHOT/core-3.0-20160204.112912-41-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

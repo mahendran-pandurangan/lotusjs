@@ -1,0 +1,4 @@
+
+;squid:S1068"'Remove this unused "LOG" private field.(ëª˜	
+Csquid:S1444")Make this "public static env" field final(¢İÊøÿÿÿÿ
+usquid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "env".(ÜÙæÃûÿÿÿÿ

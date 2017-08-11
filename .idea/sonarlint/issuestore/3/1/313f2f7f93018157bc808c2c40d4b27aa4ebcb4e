@@ -1,0 +1,27 @@
+
+‚squid:S1319"mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(â‹Ÿ
+squid:S1192"{Define a constant instead of duplicating this literal "SELECT username FROM portal_user_data WHERE contact_id IN " 3 times.(Â±‚ğ
+vsquid:S1192"\Define a constant instead of duplicating this literal " order by dbms_random.value" 3 times.(Œ¾½¤úÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+squid:S1192"kDefine a constant instead of duplicating this literal "Exception while connecting to the database" 3 times.(ãòÚh
+tsquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰ƒ®
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¤ìú„øÿÿÿÿ
+¿squid:S1192"¤Define a constant instead of duplicating this literal "(SELECT DISTINCT role_id FROM portal_role_privs WHERE role_id IS NOT NULL START WITH permission IN " 3 times.(•Àú³ıÿÿÿÿ
+‡squid:S1192"mDefine a constant instead of duplicating this literal ") CONNECT BY granted_role_id=prior role_id) " 3 times.(·êÚìúÿÿÿÿ
+‡squid:S1319"mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(Î³£µùÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñ”Á
+‚squid:S1319"mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(áªŒ…
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+‡squid:S1192"mDefine a constant instead of duplicating this literal "Exception while fetching users from database" 3 times.(Ú˜àûÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñ”Á
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+ksquid:S1192"VDefine a constant instead of duplicating this literal "DB query to be used: " 3 times.(ƒç¤ª
+tsquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰ƒ®
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¤ìú„øÿÿÿÿ
+tsquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰ƒ®
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñ”Á
+—squid:S1192"Define a constant instead of duplicating this literal "(SELECT contact_id FROM portal_user_grp_privs WHERE group_id IN " 3 times.(É„Ì¸
+­squid:S1192"’Define a constant instead of duplicating this literal "AND active =1 AND pw_flag =0 AND pw_attempt<4 AND user_type='ui') and rownum <= ?" 3 times.(şµ„¿şÿÿÿÿ

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$USER_HOME$/Dropbox/ipd_qbdt_las_eco_test" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Dropbox/test-framework" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pulsar-authz-v2-tests" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pulsar-cname-provisioning-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pulsar-firewall-rules-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pulsar-idm-api-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pulsar-ids-sam-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pulsar-set-tests" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../taf-open" charset="UTF-8" />
+    <file url="file://$USER_HOME$/pulsar-firewall-rules-test" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

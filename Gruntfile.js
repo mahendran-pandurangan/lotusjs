@@ -7,7 +7,7 @@ module.exports = function(grunt) {
                 }
             },
             chrome: {
-                tests: ['./test/test-webdriver.js'],
+                tests: ['./test/test-webdriver-ref.js'],
                 options: {
                     desiredCapabilities: {
                         browserName: 'chrome'

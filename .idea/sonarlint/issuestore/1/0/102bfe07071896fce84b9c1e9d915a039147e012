@@ -1,0 +1,24 @@
+
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(²À±Äúÿÿÿÿ
+4squid:S2095"Close this "PreparedStatement".(©×É‰
+3squid:S2095"Close this "PreparedStatement".(Èøí`
+9squid:S2095"Close this "PreparedStatement".(¡ìõ›ûÿÿÿÿ
+9squid:S2095"Close this "PreparedStatement".(¯İ¼íúÿÿÿÿ
+4squid:S2095"Close this "PreparedStatement".(éÊûğ
+isquid:S1132"UMove the "Akamai Internal" string literal on the left side of this string comparison.(•ïŸO
+Csquid:S1481")Remove this unused "date" local variable.(ğ² °ûÿÿÿÿ
+Bsquid:S1481"(Remove this unused "del" local variable.(£´¥©øÿÿÿÿ
+?squid:S1166"%Either log or rethrow this exception.(ó¤„üÿÿÿÿ
+:squid:S1166"%Either log or rethrow this exception.(É®£
+:squid:S1166"%Either log or rethrow this exception.(É®£
+:squid:S1166"%Either log or rethrow this exception.(É®£
+:squid:S1166"%Either log or rethrow this exception.(É®£
+:squid:S1166"%Either log or rethrow this exception.(É®£
+Rsquid:S1854"8Remove this useless assignment to local variable "date".(ğ² °ûÿÿÿÿ
+Qsquid:S1854"7Remove this useless assignment to local variable "del".(£´¥©øÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

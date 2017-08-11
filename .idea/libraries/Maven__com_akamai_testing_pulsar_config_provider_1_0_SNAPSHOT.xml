@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.akamai.testing.pulsar:config-provider:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/akamai/testing/pulsar/config-provider/1.0-SNAPSHOT/config-provider-1.0-20160202.092643-6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/akamai/testing/pulsar/config-provider/1.0-SNAPSHOT/config-provider-1.0-20160202.092643-6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/akamai/testing/pulsar/config-provider/1.0-SNAPSHOT/config-provider-1.0-20160202.092643-6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

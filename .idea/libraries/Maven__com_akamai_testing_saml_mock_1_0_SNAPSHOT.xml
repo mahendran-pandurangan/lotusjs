@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.akamai.testing:saml-mock:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/akamai/testing/saml-mock/1.0-SNAPSHOT/saml-mock-1.0-20160315.101800-48.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/akamai/testing/saml-mock/1.0-SNAPSHOT/saml-mock-1.0-20160315.101800-48-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/akamai/testing/saml-mock/1.0-SNAPSHOT/saml-mock-1.0-20160315.101800-48-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

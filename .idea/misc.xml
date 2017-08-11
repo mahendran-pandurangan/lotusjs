@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <type id="Spring" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../pulsar-authz-v2-tests/pom.xml" />
+        <option value="$PROJECT_DIR$/../pulsar-set-tests/pom.xml" />
+        <option value="$PROJECT_DIR$/../pulsar-idm-api-test/pom.xml" />
+        <option value="$PROJECT_DIR$/../pulsar-ace-test/pom.xml" />
+        <option value="$PROJECT_DIR$/../pulsar-reconciliation-test/pom.xml" />
+        <option value="$PROJECT_DIR$/../Lotus/pom.xml" />
+        <option value="$PROJECT_DIR$/../taf-data-abstraction/pom.xml" />
+        <option value="$PROJECT_DIR$/../ace-e2e/pom.xml" />
+        <option value="$PROJECT_DIR$/../pulsar-ace-e2e-test/pom.xml" />
+        <option value="$PROJECT_DIR$/../taf-open/pom.xml" />
+        <option value="$PROJECT_DIR$/../pulsar-platform-open-test/pom.xml" />
+        <option value="$PROJECT_DIR$/../taf-user-search-tool/pom.xml" />
+        <option value="$PROJECT_DIR$/../pulsar-ids-sam-test/pom.xml" />
+        <option value="$PROJECT_DIR$/../pulsar-firewall-rules-test/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+</project>

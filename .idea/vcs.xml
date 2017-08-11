@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Lotus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ace-e2e" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../pulsar-ace-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../pulsar-authz-v2-tests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../pulsar-firewall-rules-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../pulsar-idm-api-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../pulsar-platform-open-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../pulsar-reconciliation-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../pulsar-set-tests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../taf-data-abstraction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../taf-open" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../taf-user-search-tool" vcs="Git" />
+  </component>
+</project>

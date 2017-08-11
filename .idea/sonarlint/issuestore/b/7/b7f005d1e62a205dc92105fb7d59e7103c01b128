@@ -1,0 +1,83 @@
+
+Ssquid:S1155">Use isEmpty() to check whether the collection is empty or not.(Ê„€º
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ËÀø¿úÿÿÿÿ
+Esquid:S1481"+Remove this unused "result" local variable.(¼ª÷ñÿÿÿÿÿ
+`squid:S1132"KMove the "Click" string literal on the left side of this string comparison.(Õíåé
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 67 to the 15 allowed.(¸±‹›
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ËÀø¿úÿÿÿÿ
+vsquid:S1192"\Define a constant instead of duplicating this literal "Verifying Element Presense" 13 times.(³ì’ùÿÿÿÿ
+Ssquid:S1155">Use isEmpty() to check whether the collection is empty or not.(Ê„€º
+Ssquid:S1155">Use isEmpty() to check whether the collection is empty or not.(Ê„€º
+`squid:S1132"FMove the "" string literal on the left side of this string comparison.(šæõ“úÿÿÿÿ
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(õòçÚ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(ÀÚ˜ûùÿÿÿÿ
+Ssquid:S1854"9Remove this useless assignment to local variable "index".(ç×ôãùÿÿÿÿ
+`squid:S1132"KMove the "Empty" string literal on the left side of this string comparison.(öåç¸
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(³ë…¨
+qsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¼ŞÍ¸
+Isquid:S1066"/Merge this if statement with the enclosing one.(é–ğøÿÿÿÿ
+Usquid:S1854";Remove this useless assignment to local variable "success".(Íñˆ¡ÿÿÿÿÿ
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ËÀø¿úÿÿÿÿ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(®â’Äøÿÿÿÿ
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ËÀø¿úÿÿÿÿ
+_squid:S1192"JDefine a constant instead of duplicating this literal "Selected " 6 times.(²®¾î
+Isquid:S1066"/Merge this if statement with the enclosing one.(šæõ“úÿÿÿÿ
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(³Ë‹–úÿÿÿÿ
+Dsquid:S1481"*Remove this unused "index" local variable.(ç×ôãùÿÿÿÿ
+?squid:S1166"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+[squid:S1858"F"key" is already a string, there's no need to call "toString()" on it.(ì¶®¾
+`squid:S1132"KMove the "input" string literal on the left side of this string comparison.(ñ‘Ÿõ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+1squid:S1643"Use a StringBuilder instead.(ÅÀ™µ
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ËÀø¿úÿÿÿÿ
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ËÀø¿úÿÿÿÿ
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(†íæÑûÿÿÿÿ
+csquid:S1871"IThis case's code block is the same as the block for the case on line 112.(®¢Èúÿÿÿÿ
+qsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(²®¾î
+m
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(Œí‡Ñ
+6squid:S1643"Use a StringBuilder instead.(Ú Ú†ıÿÿÿÿ
+qsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(È¥«
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(ú×”
+\squid:S1132"GMove the "Y" string literal on the left side of this string comparison.(ÁÖ¤”
+Usquid:S1854";Remove this useless assignment to local variable "success".(Íñˆ¡ÿÿÿÿÿ
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(€Òˆşÿÿÿÿ
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ËÀø¿úÿÿÿÿ
+Usquid:S1854";Remove this useless assignment to local variable "success".(Íñˆ¡ÿÿÿÿÿ
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 73 to the 15 allowed.(ç×™ïûÿÿÿÿ
+Usquid:S1854";Remove this useless assignment to local variable "success".(Íñˆ¡ÿÿÿÿÿ
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ËÀø¿úÿÿÿÿ
+osquid:S1192"UDefine a constant instead of duplicating this literal "Need_Page_Navigation" 5 times.(‰²êàüÿÿÿÿ
+qsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(²®¾î
+ksquid:S1192"VDefine a constant instead of duplicating this literal "Element not present " 13 times.(ÇÑ“‘
+csquid:S1192"IDefine a constant instead of duplicating this literal "Entered " 9 times.(ËÀø¿úÿÿÿÿ
+\squid:S1132"GMove the "Y" string literal on the left side of this string comparison.(ÁÖ¤”
+nsquid:S1192"YDefine a constant instead of duplicating this literal " from drop down in page " 4 times.(„Û‡–
+asquid:S1132"LMove the "select" string literal on the left side of this string comparison.(®õÇØ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Usquid:S1854";Remove this useless assignment to local variable "success".(Íñˆ¡ÿÿÿÿÿ
+[squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+\squid:S1192"GDefine a constant instead of duplicating this literal "select" 3 times.(®õÇØ
+psquid:S1488"\Immediately return this expression instead of assigning it to the temporary variable "time".(ãÖ“r
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(·ÇÊƒ
+qsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(È¥«
+asquid:S1132"LMove the "select" string literal on the left side of this string comparison.(®õÇØ
+\squid:S1132"GMove the "a" string literal on the left side of this string comparison.(±ŒÀ
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ËÀø¿úÿÿÿÿ
+[squid:S1192"FDefine a constant instead of duplicating this literal "input" 4 times.(ÇÜò·
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(õòçÚ
+asquid:S1858"M"aErrorLocator" is an array of strings, there's no need to call "toString()".(¸Š„Q
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(ÚˆËñ
+_squid:S1192"JDefine a constant instead of duplicating this literal " in page " 9 times.(ò¼À
+`squid:S1858"F"key" is already a string, there's no need to call "toString()" on it.(µºØ‚ÿÿÿÿÿ
+\squid:S1192"GDefine a constant instead of duplicating this literal "----> " 9 times.(ò¼À
+tsquid:S1488"`Immediately return this expression instead of assigning it to the temporary variable "testData".(ÿ÷»P
+asquid:S1132"LMove the "select" string literal on the left side of this string comparison.(®õÇØ
+Usquid:S1854";Remove this useless assignment to local variable "success".(Íñˆ¡ÿÿÿÿÿ
+csquid:S1132"IMove the "Yes" string literal on the left side of this string comparison.(È«¿—ûÿÿÿÿ
+esquid:S1132"KMove the "label" string literal on the left side of this string comparison.(¶ª´¾øÿÿÿÿ
+csquid:S1132"IMove the "Yes" string literal on the left side of this string comparison.(ÿ¬×õøÿÿÿÿ
+Usquid:S1854";Remove this useless assignment to local variable "success".(Íñˆ¡ÿÿÿÿÿ
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(³Ë‹–úÿÿÿÿ

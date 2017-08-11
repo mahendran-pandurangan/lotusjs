@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ace-e2e" />
+        <module name="ace-e2e (1)" />
+        <module name="Lotus" />
+        <module name="luna-platform-open-test" />
+        <module name="luna-platform-recon-test" />
+        <module name="pular-firewallrules-test" />
+        <module name="pulsar-ace-tests" />
+        <module name="pulsar-ace-tests (1)" />
+        <module name="pulsar-authz-v2-tests" />
+        <module name="pulsar-idm-api-test" />
+        <module name="pulsar-ids-sam-test" />
+        <module name="set-tests" />
+        <module name="taf-data-abstraction" />
+        <module name="taf-open" />
+        <module name="taf-user-search-tool" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ace-e2e" target="1.5" />
+      <module name="ace-e2e (1)" target="1.5" />
+      <module name="AutoLib" target="1.7" />
+      <module name="cmt_be_test" target="1.6" />
+      <module name="cname-provisioning-test" target="1.8" />
+      <module name="firewall-rules-manager" target="1.8" />
+      <module name="ipd_qbdt_las_eco_test" target="1.5" />
+      <module name="Lotus" target="1.8" />
+      <module name="luna-platform-open-test" target="1.8" />
+      <module name="luna-platform-recon-test" target="1.8" />
+      <module name="pular-firewallrules-test" target="1.8" />
+      <module name="pulsar-ace-e2e-test" target="1.5" />
+      <module name="pulsar-ace-tests" target="1.8" />
+      <module name="pulsar-ace-tests (1)" target="1.8" />
+      <module name="pulsar-authz-v2-tests" target="1.8" />
+      <module name="pulsar-firewallrules-test" target="1.8" />
+      <module name="pulsar-firewallrules-test (1)" target="1.8" />
+      <module name="pulsar-idm-api-test" target="1.8" />
+      <module name="pulsar-ids-sam-test" target="1.8" />
+      <module name="set-tests" target="1.8" />
+      <module name="taf-data-abstraction" target="1.8" />
+      <module name="taf-open" target="1.8" />
+      <module name="taf-user-search-tool" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

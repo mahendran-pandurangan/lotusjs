@@ -1,0 +1,6 @@
+
+Osquid:S1118":Add a private constructor to hide the implicit public one.(”Ž¦Ñ
+ssquid:S3008"YRename this field "LowerCaseAlpha" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢êÎŒþÿÿÿÿ
+ssquid:S3008"YRename this field "UpperCaseAlpha" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áú“´ÿÿÿÿÿ
+ssquid:S3008"YRename this field "NonZeroNumeric" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÙŠ›üÿÿÿÿ
+lsquid:S3008"RRename this field "Numeric" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¥ŒÃøÿÿÿÿ

@@ -1,0 +1,34 @@
+
+_squid:S1132"KMove the "image" string literal on the left side of this string comparison.(¤îğ{
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(Å‰Å‘şÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ä–ÚÛşÿÿÿÿ
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Àãèùÿÿÿÿ
+]squid:S1132"HMove the "NA" string literal on the left side of this string comparison.(ê§½
+Ksquid:S2629"7Use the built-in formatting to construct this argument.(Æ»ãR
+Zsquid:S1192"FDefine a constant instead of duplicating this literal " Page" 4 times.(Æ»ãR
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(ÿğ›œüÿÿÿÿ
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(²ãË
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(œæ¬Ğüÿÿÿÿ
+]squid:S1132"HMove the "NA" string literal on the left side of this string comparison.(ø€†
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(®Şˆéıÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÉæÄ“şÿÿÿÿ
+usquid:S1488"aImmediately return this expression instead of assigning it to the temporary variable "companyID".(·ö³G
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±¾Éé
+qsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ÔÌ‹ã
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ˆÜÍ†ùÿÿÿÿ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(½Îçşûÿÿÿÿ
+]squid:S1132"HMove the "NA" string literal on the left side of this string comparison.(²Ã®€
+qsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¥Ú›
+‡squid:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(í×ïøÿÿÿÿ
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä§è„ÿÿÿÿÿ
+a
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¤îğ{
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(Ò’Œê
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(¼Ú÷Å
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŞÔÆÛùÿÿÿÿ
+bsquid:S1132"HMove the "NA" string literal on the left side of this string comparison.(éÄëÜûÿÿÿÿ
+lsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÚ÷õ
+qsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(éÂ–ª
+b
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(«æí‘
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ˆ‚ƒÌøÿÿÿÿ

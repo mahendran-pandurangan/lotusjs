@@ -13,7 +13,7 @@ var mochaOpts = {
 };
 
 gulp.task('test', () => {
-    return gulp.src('./test/test-webdriver.js')
+    return gulp.src('./test/test-webdriver-ref.js')
         .pipe(mocha())
         .once('error', () => {
             process.exit(1);

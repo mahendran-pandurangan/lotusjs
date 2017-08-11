@@ -1,0 +1,7 @@
+
+?squid:S1068"*Remove this unused "logger" private field.(³„ì
+>squid:S1125")Remove the literal "false" boolean value.(üàÄø
+>squid:S1125")Remove the literal "false" boolean value.(¿Èì¨
+]squid:S1132"HMove the "NA" string literal on the left side of this string comparison.(üàÄø
+]squid:S1132"HMove the "NA" string literal on the left side of this string comparison.(¿Èì¨
+Osquid:S1118":Add a private constructor to hide the implicit public one.(ñÇ½á

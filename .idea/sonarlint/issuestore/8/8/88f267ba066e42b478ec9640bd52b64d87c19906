@@ -1,0 +1,130 @@
+
+Isquid:EmptyStatementUsageCheck"Remove this empty statement.(Åñ­õşÿÿÿÿ
+qsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¯ç¿÷
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(”•˜øÿÿÿÿ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(åé²Âúÿÿÿÿ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(‚şÖøÿÿÿÿ
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(€½˜°
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(•ÄêÃùÿÿÿÿ
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(¿€ŸÌ
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(å°·¬
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(Öï¥şÿÿÿÿ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(ğ”Óıùÿÿÿÿ
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(³ÓáÉ
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(ŸÚ¼’
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(™‹ëÈ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(à¡ö¯ûÿÿÿÿ
+qsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¨«—À
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(€©íûÿÿÿÿ
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ÇÀÒÌùÿÿÿÿ
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¿éİñüÿÿÿÿ
+qsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(€å¹³
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ÇÀÒÌùÿÿÿÿ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(Í­ì´ıÿÿÿÿ
+qsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ÿÆ‡…
+qsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¦ªè
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(Ş‚öèøÿÿÿÿ
+qsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ÿÆ‡…
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(½ö­üÿÿÿÿ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(õÇ¿ÿÿÿÿÿ
+qsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¥æĞ‘
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ÆÀŒõüÿÿÿÿ
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ÇÀÒÌùÿÿÿÿ
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(»èõ¦
+qsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¥æĞ‘
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(œ‘ÏŞùÿÿÿÿ
+asquid:S1192"LDefine a constant instead of duplicating this literal " Verifying " 4 times.(¨«—À
+bsquid:S1192"HDefine a constant instead of duplicating this literal "Actual " 5 times.(ÇÀÒÌùÿÿÿÿ
+[squid:S1192"FDefine a constant instead of duplicating this literal " Page" 9 times.(Şš—
+asquid:S1192"GDefine a constant instead of duplicating this literal "://www" 3 times.(£ş¼ûÿÿÿÿ
+˜squid:S1192"~Define a constant instead of duplicating this literal "parent locator or parent locator action columns doesn't exist" 6 times.(ÔÉôÒúÿÿÿÿ
+gsquid:S1192"MDefine a constant instead of duplicating this literal "data-wa-link" 6 times.(”•˜øÿÿÿÿ
+dsquid:S1192"JDefine a constant instead of duplicating this literal " link on " 5 times.(ğ”Óıùÿÿÿÿ
+ƒsquid:S1192"nDefine a constant instead of duplicating this literal "Element could not be located using locator - " 3 times.(¯ç¿÷
+osquid:S1192"UDefine a constant instead of duplicating this literal "Element not present " 3 times.(µëÍÎúÿÿÿÿ
+esquid:S1192"KDefine a constant instead of duplicating this literal "Verifying " 3 times.(”•˜øÿÿÿÿ
+dsquid:S1192"JDefine a constant instead of duplicating this literal "Expected " 5 times.(€©íûÿÿÿÿ
+Dsquid:S1066"/Merge this if statement with the enclosing one.(’ÄÀ
+Isquid:S1066"/Merge this if statement with the enclosing one.(†€¢üÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹è­ø
+_squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ğ¸˜w
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Í¼ ê
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÿÌ¶’
+_squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‰µèc
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ñ Û¾
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(å‘‹±ûÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(µ‘úÖúÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ºŸßûÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†´Öœüÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’¿¾¾şÿÿÿÿ
+g
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¨†î«ùÿÿÿÿ
+g
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ÖêÊÃıÿÿÿÿ
+g
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¼·§ÿÿÿÿÿ
+Csquid:S1125")Remove the literal "false" boolean value.(Æ¨Éÿÿÿÿÿ
+Csquid:S1125")Remove the literal "false" boolean value.(­ğÄùÿÿÿÿ
+Osquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Osquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+]squid:S1132"HMove the "NA" string literal on the left side of this string comparison.(Ñ¡‰ê
+]squid:S1132"HMove the "NA" string literal on the left side of this string comparison.(Æ¼¾
+bsquid:S1132"HMove the "NA" string literal on the left side of this string comparison.(¨†î«ùÿÿÿÿ
+esquid:S1132"KMove the "phone" string literal on the left side of this string comparison.(†€¢üÿÿÿÿ
+fsquid:S1132"LMove the "tablet" string literal on the left side of this string comparison.(‡†¢£ÿÿÿÿÿ
+bsquid:S1132"HMove the "NA" string literal on the left side of this string comparison.(£°‚“øÿÿÿÿ
+bsquid:S1132"HMove the "NA" string literal on the left side of this string comparison.(ˆ³Â–şÿÿÿÿ
+]squid:S1132"HMove the "NA" string literal on the left side of this string comparison.(ê…¸Ğ
+]squid:S1132"HMove the "NA" string literal on the left side of this string comparison.(´Â­¡
+bsquid:S1132"HMove the "NA" string literal on the left side of this string comparison.(€ãœ­ùÿÿÿÿ
+\squid:S1132"GMove the "/" string literal on the left side of this string comparison.(ë¶Ç
+]squid:S1132"HMove the "NA" string literal on the left side of this string comparison.(ëõ¢«
+]squid:S1132"HMove the "NA" string literal on the left side of this string comparison.(è™ÇÎ
+]squid:S1132"HMove the "NA" string literal on the left side of this string comparison.(ø çÿ
+bsquid:S1132"HMove the "NA" string literal on the left side of this string comparison.(ÖêÊÃıÿÿÿÿ
+]squid:S1132"HMove the "NA" string literal on the left side of this string comparison.(óŸ—ú
+]squid:S1132"HMove the "NA" string literal on the left side of this string comparison.(ˆ²æ
+bsquid:S1132"HMove the "NA" string literal on the left side of this string comparison.(ÖêÊÃıÿÿÿÿ
+]squid:S1132"HMove the "NA" string literal on the left side of this string comparison.(è™ÇÎ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(ìÛÀíüÿÿÿÿ
+]squid:S1226"CIntroduce a new variable instead of reusing the parameter "expUrl".(£ş¼ûÿÿÿÿ
+]squid:S1226"CIntroduce a new variable instead of reusing the parameter "expUrl".(Êƒ·†üÿÿÿÿ
+Xsquid:S1226"CIntroduce a new variable instead of reusing the parameter "expUrl".(âñ–
+Wsquid:S1226"CIntroduce a new variable instead of reusing the parameter "expUrl".(ª×ûG
+Xsquid:S1226"CIntroduce a new variable instead of reusing the parameter "expUrl".(Ò½§€
+Xsquid:S1226"CIntroduce a new variable instead of reusing the parameter "expUrl".(ÒÌÔ
+Esquid:S1481"0Remove this unused "linkElement" local variable.(â‡Š
+Lsquid:S1481"2Remove this unused "feedbackXpath" local variable.(ü«“âıÿÿÿÿ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(æÂÌ
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(§ÓÜÙùÿÿÿÿ
+Vsquid:S2259"BNullPointerException might be thrown as 'pageUrl' is nullable here(“ıÑ
+:squid:S1166"%Either log or rethrow this exception.(ÃÁò’
+:squid:S1166"%Either log or rethrow this exception.(ßÈ´
+:squid:S1166"%Either log or rethrow this exception.(ÃÁò’
+:squid:S1166"%Either log or rethrow this exception.(ßÈ´
+:squid:S1166"%Either log or rethrow this exception.(ÃÁò’
+:squid:S1166"%Either log or rethrow this exception.(”ı¾
+:squid:S1166"%Either log or rethrow this exception.(”ı¾
+:squid:S1166"%Either log or rethrow this exception.(”ı¾
+:squid:S1166"%Either log or rethrow this exception.(”ı¾
+:squid:S1166"%Either log or rethrow this exception.(”ı¾
+:squid:S1166"%Either log or rethrow this exception.(ÃÁò’
+:squid:S1166"%Either log or rethrow this exception.(ßÈ´
+:squid:S1166"%Either log or rethrow this exception.(ÃÁò’
+:squid:S1166"%Either log or rethrow this exception.(ßÈ´
+:squid:S1166"%Either log or rethrow this exception.(”ı¾
+:squid:S1166"%Either log or rethrow this exception.(”ı¾
+?squid:S00108")Either remove or fill this block of code.(”ı¾
+Tsquid:S1854"?Remove this useless assignment to local variable "linkElement".(â‡Š
+Psquid:S1854";Remove this useless assignment to local variable "linkUrl".(¸á¨É
+Usquid:S1854"@Remove this useless assignment to local variable "clickElement".(’Áƒ
+Ysquid:S1854"DRemove this useless assignment to local variable "isTargetUrlValid".(ßŒ±Â
+[squid:S1854"FRemove this useless assignment to local variable "curentWindowHandle".(¾ó
+Nsquid:S1854":Remove this useless assignment to local variable "envURL".(ÖÎ…@
+[squid:S1854"ARemove this useless assignment to local variable "feedbackXpath".(ü«“âıÿÿÿÿ
+Zsquid:S2147"ECombine this catch with the one at line 108, which has the same body.(ßÈ´
+Zsquid:S2147"ECombine this catch with the one at line 143, which has the same body.(ßÈ´
+Zsquid:S2147"ECombine this catch with the one at line 654, which has the same body.(ßÈ´
+Zsquid:S2147"ECombine this catch with the one at line 723, which has the same body.(ßÈ´
+_squid:S1858"J"expText" is already a string, there's no need to call "toString()" on it.(´Â­¡
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

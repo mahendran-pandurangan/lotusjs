@@ -1,0 +1,26 @@
+
+:squid:S1166"%Either log or rethrow this exception.(ï­£Ä
+dsquid:S1192"JDefine a constant instead of duplicating this literal "contactId" 3 times.(Áõã½øÿÿÿÿ
+Ksquid:S1481"1Remove this unused "updateCounts" local variable.(¡üæ¸øÿÿÿÿ
+bsquid:S1132"MMove the "1-7KLGH" string literal on the left side of this string comparison.(Ï¯Ò€
+:squid:S1166"%Either log or rethrow this exception.(‹±ÃÆ
+?squid:S1166"%Either log or rethrow this exception.(ó¤„üÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+wsquid:S1488"bImmediately return this expression instead of assigning it to the temporary variable "Akasession".(”§ÑÒ
+psquid:S1132"[Move the "AKALASTMANAGEDACCOUNT" string literal on the left side of this string comparison.(ÙËÙâ
+9squid:S2095"Close this "PreparedStatement".(âÃ¶¯ùÿÿÿÿ
+Æsquid:S1160"°Refactor this method to throw at most one checked exception instead of: com.akamai.taf.exception.DatabaseConnectionException, com.akamai.taf.search.user.exception.UserException(Û›ñÉ
+^squid:S1192"IDefine a constant instead of duplicating this literal "username" 3 times.(Í±ïÖ
+?squid:S1166"%Either log or rethrow this exception.(ó¤„üÿÿÿÿ
+fsquid:S1192"QDefine a constant instead of duplicating this literal "application/json" 4 times.(­’´Ä
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+:squid:S1166"%Either log or rethrow this exception.(É®£
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+ksquid:S1192"VDefine a constant instead of duplicating this literal "AKALASTMANAGEDACCOUNT" 3 times.(ÙËÙâ
+9squid:S2095"Close this "PreparedStatement".(„¦’îıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+‚squid:S1192"mDefine a constant instead of duplicating this literal "Issue in User creation. User is not created " 4 times.(õÚ’ë
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(•€§Ú
+`squid:S1192"KDefine a constant instead of duplicating this literal "AKASESSION" 4 times.(”§ÑÒ
+Gsquid:S1172"2Remove this unused method parameter "userDetails".(šíÆç

@@ -1,0 +1,53 @@
+
+msquid:S1192"SDefine a constant instead of duplicating this literal "CurrentExecutingTc" 4 times.(»Þ©Üûÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ë¹ÿ—üÿÿÿÿ
+b
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(‰¦Äß
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(æ´“ü
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(öÝ¤Òýÿÿÿÿ
+[squid:S1132"FMove the "" string literal on the left side of this string comparison.(‰¦Äß
+Lsquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+Qsquid:S1481"7Remove this unused "sExcutingDataSheet" local variable.(æâ»¸úÿÿÿÿ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¯ééÙ
+`squid:S1854"FRemove this useless assignment to local variable "sExcutingDataSheet".(æâ»¸úÿÿÿÿ
+Zsquid:S1854"ERemove this useless assignment to local variable "sCurrentDataSheet".(í á÷
+\squid:S1854"GRemove this useless assignment to local variable "sCurrentExecutingTc".(ôÿú†
+[squid:S1854"ARemove this useless assignment to local variable "sTestCaseName".(†©ÑÍýÿÿÿÿ
+Zsquid:S1854"ERemove this useless assignment to local variable "sCurrentDataSheet".(ð¯†©
+asquid:S1854"GRemove this useless assignment to local variable "sCurrentExecutingTc".(Ó¥·þûÿÿÿÿ
+Tsquid:S1161":Add the "@Override" annotation above this method signature(‰ü„ùÿÿÿÿ
+Osquid:S1161":Add the "@Override" annotation above this method signature(ªÆÓ¾
+Tsquid:S1161":Add the "@Override" annotation above this method signature(²Å»Úüÿÿÿÿ
+Osquid:S1161":Add the "@Override" annotation above this method signature(§˜Š†
+Tsquid:S1161":Add the "@Override" annotation above this method signature(Öëª«ÿÿÿÿÿ
+Osquid:S1161":Add the "@Override" annotation above this method signature(÷Þðú
+Tsquid:S1161":Add the "@Override" annotation above this method signature(î³Šøÿÿÿÿ
+Osquid:S1161":Add the "@Override" annotation above this method signature(²šžæ
+Tsquid:S1161":Add the "@Override" annotation above this method signature(÷ÉÑÿÿÿÿÿ
+Tsquid:S1161":Add the "@Override" annotation above this method signature( µÜûøÿÿÿÿ
+Osquid:S1161":Add the "@Override" annotation above this method signature(¯ééÙ
+Tsquid:S1161":Add the "@Override" annotation above this method signature(äî“µùÿÿÿÿ
+Tsquid:S1161":Add the "@Override" annotation above this method signature(ð§ÜÅÿÿÿÿÿ
+Tsquid:S1161":Add the "@Override" annotation above this method signature(žðôÑûÿÿÿÿ
+Tsquid:S1161":Add the "@Override" annotation above this method signature(ÊéâÝùÿÿÿÿ
+Tsquid:S1161":Add the "@Override" annotation above this method signature(¦ú—÷ÿÿÿÿÿ
+Osquid:S1161":Add the "@Override" annotation above this method signature(äÿ£ª
+Tsquid:S1161":Add the "@Override" annotation above this method signature(ÑÙ“ïûÿÿÿÿ

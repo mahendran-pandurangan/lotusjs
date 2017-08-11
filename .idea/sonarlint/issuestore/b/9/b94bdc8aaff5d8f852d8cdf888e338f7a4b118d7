@@ -1,0 +1,11 @@
+
+squid:S1319"zThe type of the "subGroupsUpdate" object should be an interface such as "List" rather than the implementation "ArrayList".(Ã¿ÂÑ
+Šsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ËÖÑüÿÿÿÿ
+Šsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(’µ¦äşÿÿÿÿ
+Šsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ùø˜Ûşÿÿÿÿ
+Šsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(–åŒ•øÿÿÿÿ
+squid:S1319"sThe type of the "services" object should be an interface such as "List" rather than the implementation "ArrayList".(³ÒïÂøÿÿÿÿ
+squid:S1319"{The type of the "groupAssignments" object should be an interface such as "List" rather than the implementation "ArrayList".(Ô‰Ò
+“squid:S1319"yThe type of the "servicesUpdate" object should be an interface such as "List" rather than the implementation "ArrayList".(üûÊ üÿÿÿÿ
+Šsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Š“×Ğúÿÿÿÿ
+‰squid:S1319"tThe type of the "subGroups" object should be an interface such as "List" rather than the implementation "ArrayList".(½òµÛ

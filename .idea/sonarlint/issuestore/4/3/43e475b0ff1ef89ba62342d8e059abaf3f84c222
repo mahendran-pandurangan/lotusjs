@@ -1,0 +1,17 @@
+
+msquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(£õÒ
+
+:squid:S1166"%Either log or rethrow this exception.(É®£
+`squid:S1192"KDefine a constant instead of duplicating this literal "service_id" 3 times.(Åı¯ò
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹£Ğæ
+[squid:S1192"FDefine a constant instead of duplicating this literal "scope" 7 times.(À¥Ûâ
+‡squid:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ïøÙıÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(İÃÜ³
+?squid:S1166"%Either log or rethrow this exception.(”¼á«ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+isquid:S1192"TDefine a constant instead of duplicating this literal "service_provider_id" 4 times.(âı¤§
+lsquid:S1192"RDefine a constant instead of duplicating this literal "grant_description" 3 times.(ŸÏÉîıÿÿÿÿ
+asquid:S1132"GMove the "1" string literal on the left side of this string comparison.(Ïü”¢ÿÿÿÿÿ
+asquid:S1132"GMove the "1" string literal on the left side of this string comparison.(Ïü”¢ÿÿÿÿÿ
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.(ïøÙıÿÿÿÿ
+`squid:S1192"KDefine a constant instead of duplicating this literal "scope_name" 4 times.(íÚ›è

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.akamai.se:app-properties-client:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/akamai/se/app-properties-client/1.0-SNAPSHOT/app-properties-client-1.0-20160127.153438-54.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/akamai/se/app-properties-client/1.0-SNAPSHOT/app-properties-client-1.0-20160127.153438-54-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/akamai/se/app-properties-client/1.0-SNAPSHOT/app-properties-client-1.0-20160127.153438-54-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

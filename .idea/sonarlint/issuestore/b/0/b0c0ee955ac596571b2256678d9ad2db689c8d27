@@ -1,0 +1,5 @@
+
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1166"%Either log or rethrow this exception.(ó¤„üÿÿÿÿ
+bsquid:S1226"MIntroduce a new variable instead of reusing the parameter "oracleConnection".(–äĞ¦
+Ysquid:S1854"DRemove this useless assignment to local variable "oracleConnection".(–äĞ¦

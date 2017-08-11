@@ -1,0 +1,50 @@
+
+Zsquid:UnusedPrivateMethod"8Remove this unused private "getErrorStatusCodes" method.(ªÞª<
+`squid:UnusedPrivateMethod"8Remove this unused private "getValidStatusCodes" method.(Öåšùÿÿÿÿ
+­%squid:RedundantThrowsDeclarationCheck"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ÀÞ÷øÿÿÿÿ
+¨%squid:RedundantThrowsDeclarationCheck"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(©ÑŸ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(¾çŒêüÿÿÿÿ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(ê›üÿÿÿÿ
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(úÑ¢Õÿÿÿÿÿ
+vsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(úÑ¢Õÿÿÿÿÿ
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(°›öì
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(ÈÞÚ£
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(éñì¯üÿÿÿÿ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(éñì¯üÿÿÿÿ
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(Íáï¨
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(Íáï¨
+Žsquid:S1192"tDefine a constant instead of duplicating this literal "Verifying http status code for links available in: " 4 times.(éñì¯üÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(²ÑèÈÿÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ú„·îþÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(öðŽÇ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢Ãâþûÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢Ãâþûÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’ñ¬âûÿÿÿÿ
+Csquid:S1125")Remove the literal "false" boolean value.(žÇÉ‰ùÿÿÿÿ
+^squid:S1132"IMove the "404" string literal on the left side of this string comparison.(òÎƒï
+^squid:S1132"IMove the "503" string literal on the left side of this string comparison.(Íš¯ž
+csquid:S1132"IMove the "504" string literal on the left side of this string comparison.(äž³üÿÿÿÿ
+]squid:S1132"IMove the "404" string literal on the left side of this string comparison.(ÏéÁ:
+^squid:S1132"IMove the "503" string literal on the left side of this string comparison.(•ÿšÀ
+csquid:S1132"IMove the "504" string literal on the left side of this string comparison.(ñ„Äðûÿÿÿÿ
+Gsquid:S1135"2Complete the task associated to this TODO comment.(÷“Ñ³
+Lsquid:S1135"2Complete the task associated to this TODO comment.(€©á²øÿÿÿÿ
+Gsquid:S1135"2Complete the task associated to this TODO comment.(÷“Ñ³
+Lsquid:S1135"2Complete the task associated to this TODO comment.(€©á²øÿÿÿÿ
+Gsquid:S1135"2Complete the task associated to this TODO comment.(õÐäÑ
+Esquid:S1481"0Remove this unused "pageElement" local variable.(ƒŽê˜
+Bsquid:S1172"-Remove this unused method parameter "driver".(Šôšº
+asquid:S2259"LNullPointerException might be thrown as 'getHttpStatusCode' is nullable here(òÎƒï
+Wsquid:S2259"BNullPointerException might be thrown as 'httpURL' is nullable here(“Ö²ä
+?squid:S1166"%Either log or rethrow this exception.(õ™¶üþÿÿÿÿ
+Vsquid:S1854"<Remove this useless assignment to local variable "finalURL".(Ò½àÐûÿÿÿÿ
+csquid:S1854"IRemove this useless assignment to local variable "pageElementsOnWebPage".(ú„·îþÿÿÿÿ
+Usquid:S1854";Remove this useless assignment to local variable "linkDTO".(ƒôôÿÿÿÿÿ
+Tsquid:S1854"?Remove this useless assignment to local variable "pageElement".(ƒŽê˜
+Psquid:S1854";Remove this useless assignment to local variable "linkDTO".(ÚúÔ«
+^squid:S1854"JRemove this useless assignment to local variable "httpStatusResponseCode".(Ñ ËN
+Zsquid:S1854"@Remove this useless assignment to local variable "urlConnector".( ÌŸÿÿÿÿÿ
+Psquid:S1854";Remove this useless assignment to local variable "httpURL".(ˆæùÄ
+3squid:S2131"Use "Integer.toString" instead.(Ñ ËN
+’squid:S1158"~Call the static method Integer.toString(...) instead of instantiating a temporary object to perform this to string conversion.(Ñ ËN
+5squid:S2129"!Remove this "Integer" constructor(Ñ ËN

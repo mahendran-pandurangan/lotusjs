@@ -1,0 +1,87 @@
+
+esquid:S1132"KMove the "sauce" string literal on the left side of this string comparison.(—«Öìøÿÿÿÿ
+esquid:S1132"KMove the "phone" string literal on the left side of this string comparison.(½ê™»ùÿÿÿÿ
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(îÖòı
+fsquid:S1132"LMove the "tablet" string literal on the left side of this string comparison.(¸ÏÍ­şÿÿÿÿ
+Psquid:S2696"6Make the enclosing method "static" or remove this set.(±ÕŒ¾üÿÿÿÿ
+Nsquid:S1444"4Make this "public static maxWaitSeconds" field final(È´Ë«ÿÿÿÿÿ
+=squid:S1444")Make this "public static cap" field final(«ÛĞ~
+Bsquid:S1172"-Remove this unused method parameter "remote".(‚µÖÚ
+Esquid:S1444"0Make this "public static deviceType" field final(¹İ˜¸
+asquid:S1192"GDefine a constant instead of duplicating this literal "safari" 4 times.(”ÆòÛûÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(µ¹©ùÿÿÿÿ
+Gsquid:S1135"2Complete the task associated to this TODO comment.(ÀÌÂã
+Psquid:S2696"6Make the enclosing method "static" or remove this set.(Ó¤¦Îûÿÿÿÿ
+gsquid:S1871"MThis branch's code block is the same as the block for the branch on line 413.(Õ¸œÿÿÿÿÿ
+Jsquid:S1444"0Make this "public static screenSize" field final(óˆÿÿÿÿÿ
+Osquid:S1133"5Do not forget to remove this deprecated code someday.(¡ÿøìşÿÿÿÿ
+bsquid:S1132"HMove the "ff" string literal on the left side of this string comparison.(ÖØ†áûÿÿÿÿ
+ksquid:S1132"QMove the "sbm_perf_sr" string literal on the left side of this string comparison.(¥ï²¥ûÿÿÿÿ
+Osquid:S1133"5Do not forget to remove this deprecated code someday.(Öı¤Øúÿÿÿÿ
+Jsquid:S1133"5Do not forget to remove this deprecated code someday.(¯üÁ
+isquid:S1132"OMove the "sbm_qa_sr" string literal on the left side of this string comparison.(á¡Öıÿÿÿÿ
+Osquid:S1133"5Do not forget to remove this deprecated code someday.(’êñ¾ıÿÿÿÿ
+\squid:S1192"GDefine a constant instead of duplicating this literal "chrome" 4 times.(‚ÄœÅ
+]squid:S1132"HMove the "ff" string literal on the left side of this string comparison.(üÆÙ–
+_squid:S1192"JDefine a constant instead of duplicating this literal "1280x1024" 3 times.(¦âÆ„
+Ksquid:S1444"1Make this "public static screenShort" field final(³¯Çùÿÿÿÿ
+^squid:S1192"JDefine a constant instead of duplicating this literal "platform" 12 times.(Ô²›
+Asquid:S1444",Make this "public static config" field final(¼¹ï
+esquid:S1132"KMove the "sauce" string literal on the left side of this string comparison.(—«Öìøÿÿÿÿ
+Psquid:S2696"6Make the enclosing method "static" or remove this set.(Çïª×úÿÿÿÿ
+fsquid:S1132"LMove the "tablet" string literal on the left side of this string comparison.(½ê™»ùÿÿÿÿ
+^squid:S1192"JDefine a constant instead of duplicating this literal "Windows 7" 5 times.(ôÁÇc
+Ksquid:S2696"6Make the enclosing method "static" or remove this set.(´¾Ú›
+:squid:S1166"%Either log or rethrow this exception.(”ı¾
+bsquid:S1192"HDefine a constant instead of duplicating this literal "http://" 3 times.(‘ÓßÁûÿÿÿÿ
+csquid:S1192"IDefine a constant instead of duplicating this literal "saucetep" 4 times.(„˜ƒïøÿÿÿÿ
+]squid:S1132"HMove the "ff" string literal on the left side of this string comparison.(‰†Ç›
+asquid:S1132"LMove the "chrome" string literal on the left side of this string comparison.(‰†Ç›
+gsquid:S1192"SDefine a constant instead of duplicating this literal "sauce.max.duration" 3 times.(Ğ²j
+^squid:S1132"IMove the "yes" string literal on the left side of this string comparison.(ıôúÌ
+Psquid:S2696"6Make the enclosing method "static" or remove this set.(©¡ºşÿÿÿÿ
+Jsquid:S1133"5Do not forget to remove this deprecated code someday.(êïŠ
+Ksquid:S2696"6Make the enclosing method "static" or remove this set.(ØîÑ’
+nsquid:S1132"TMove the "sbm_canary_pac" string literal on the left side of this string comparison.(­Á˜©ıÿÿÿÿ
+fsquid:S1132"LMove the "iphone" string literal on the left side of this string comparison.(–­ù¿üÿÿÿÿ
+fsquid:S1192"QDefine a constant instead of duplicating this literal "screenResolution" 3 times.(¦âÆ„
+bsquid:S1192"HDefine a constant instead of duplicating this literal "firefox" 6 times.(•şÕ–ûÿÿÿÿ
+esquid:S1132"KMove the "sauce" string literal on the left side of this string comparison.(—«Öìøÿÿÿÿ
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(û¬ôÍ
+Lsquid:S1444"2Make this "public static xmlResultURL" field final(¶¼Ê¸ûÿÿÿÿ
+`squid:S1132"FMove the "" string literal on the left side of this string comparison.(× ‡ßøÿÿÿÿ
+Isquid:S1444"4Make this "public static takeScreenshot" field final(‡“ˆ
+Csquid:S1444".Make this "public static reporter" field final(™¡‚
+gsquid:S1132"MMove the "firefox" string literal on the left side of this string comparison.(ÖØ†áûÿÿÿÿ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(§«œè
+Isquid:S1066"/Merge this if statement with the enclosing one.(¸ÏÍ­şÿÿÿÿ
+`squid:S1192"FDefine a constant instead of duplicating this literal "sauce" 4 times.(¡°¹úÿÿÿÿ
+dsquid:S1192"ODefine a constant instead of duplicating this literal "sauce.job.name" 3 times.(§««œ
+Bsquid:S1172"-Remove this unused method parameter "remote".(¼¤Şğ
+Osquid:S1133"5Do not forget to remove this deprecated code someday.(ÀÀµşÿÿÿÿ
+Gsquid:S1135"2Complete the task associated to this TODO comment.(¼¹ï
+msquid:S1192"XDefine a constant instead of duplicating this literal "sauce.screen.resolution" 3 times.(¦âÆ„
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä‚ÉÈ
+Ksquid:S2696"6Make the enclosing method "static" or remove this set.(´¾Ú›
+bsquid:S1871"MThis branch's code block is the same as the block for the branch on line 415.(‘™œ
+]squid:S1192"HDefine a constant instead of duplicating this literal "version" 4 times.(€„ÏŠ
+asquid:S1132"LMove the "safari" string literal on the left side of this string comparison.(ŸûËÊ
+bsquid:S1132"MMove the "android" string literal on the left side of this string comparison.(¤£Â£
+Ksquid:S2696"6Make the enclosing method "static" or remove this set.(´¾Ú›
+asquid:S1132"LMove the "chrome" string literal on the left side of this string comparison.(‘™œ
+Csquid:S1125")Remove the literal "false" boolean value.(× ‡ßøÿÿÿÿ
+esquid:S1132"KMove the "linux" string literal on the left side of this string comparison.(ÌÜÿ¡şÿÿÿÿ
+bsquid:S1132"MMove the "firefox" string literal on the left side of this string comparison.(üÆÙ–
+esquid:S1132"KMove the "phone" string literal on the left side of this string comparison.(¸ÏÍ­şÿÿÿÿ
+bsquid:S1132"HMove the "ie" string literal on the left side of this string comparison.(Õ¸œÿÿÿÿÿ
+bsquid:S1192"HDefine a constant instead of duplicating this literal "BROWSER" 9 times.(Ò¦ÚŸøÿÿÿÿ
+fsquid:S1132"LMove the "safari" string literal on the left side of this string comparison.(Ÿ³–üÿÿÿÿ
+Fsquid:S1444"1Make this "public static devToolsLog" field final(ƒŞ—ü
+bsquid:S1871"MThis branch's code block is the same as the block for the branch on line 417.(å¥‡
+ksquid:S1132"QMove the "sbm_non_pac" string literal on the left side of this string comparison.(Ø·ÅŒûÿÿÿÿ
+Jsquid:S1133"5Do not forget to remove this deprecated code someday.(ÜùÏ
+Osquid:S1133"5Do not forget to remove this deprecated code someday.(£¬á¢øÿÿÿÿ
+Zsquid:S1192"FDefine a constant instead of duplicating this literal "10800" 3 times.(Ğ²j
+Ksquid:S2696"6Make the enclosing method "static" or remove this set.(—ÅÂ®
+Ssquid:S1444"9Make this "public static screenshotOnFailure" field final(»Õµôûÿÿÿÿ
+asquid:S1192"MDefine a constant instead of duplicating this literal "max-duration" 3 times.(Ğ²j

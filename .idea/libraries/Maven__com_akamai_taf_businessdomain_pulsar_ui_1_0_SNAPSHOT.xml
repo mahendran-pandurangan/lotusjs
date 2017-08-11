@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.akamai.taf.businessdomain:pulsar-ui:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/akamai/taf/businessdomain/pulsar-ui/1.0-SNAPSHOT/pulsar-ui-1.0-20150615.182031-48.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/akamai/taf/businessdomain/pulsar-ui/1.0-SNAPSHOT/pulsar-ui-1.0-20150615.182031-48-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/akamai/taf/businessdomain/pulsar-ui/1.0-SNAPSHOT/pulsar-ui-1.0-20150615.182031-48-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

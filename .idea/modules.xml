@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Lotus/Lotus.iml" filepath="$PROJECT_DIR$/../Lotus/Lotus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ace-e2e/ace-e2e.iml" filepath="$PROJECT_DIR$/../ace-e2e/ace-e2e.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pulsar-ace-e2e-test/ace-e2e/ace-e2e (1).iml" filepath="$PROJECT_DIR$/../pulsar-ace-e2e-test/ace-e2e/ace-e2e (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lotusjs.iml" filepath="$PROJECT_DIR$/.idea/lotusjs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pulsar-platform-open-test/luna-platform-open-test.iml" filepath="$PROJECT_DIR$/../pulsar-platform-open-test/luna-platform-open-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pulsar-reconciliation-test/luna-platform-recon-test.iml" filepath="$PROJECT_DIR$/../pulsar-reconciliation-test/luna-platform-recon-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pulsar-firewall-rules-test/pular-firewallrules-test.iml" filepath="$PROJECT_DIR$/../pulsar-firewall-rules-test/pular-firewallrules-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pulsar-ace-e2e-test/pulsar-ace-e2e-test.iml" filepath="$PROJECT_DIR$/../pulsar-ace-e2e-test/pulsar-ace-e2e-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pulsar-ace-test/pulsar-ace-tests.iml" filepath="$PROJECT_DIR$/../pulsar-ace-test/pulsar-ace-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pulsar-ace-e2e-test/pulsar-ace-test/pulsar-ace-tests (1).iml" filepath="$PROJECT_DIR$/../pulsar-ace-e2e-test/pulsar-ace-test/pulsar-ace-tests (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pulsar-authz-v2-tests/pulsar-authz-v2-tests.iml" filepath="$PROJECT_DIR$/../pulsar-authz-v2-tests/pulsar-authz-v2-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pulsar-idm-api-test/pulsar-idm-api-test.iml" filepath="$PROJECT_DIR$/../pulsar-idm-api-test/pulsar-idm-api-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pulsar-ids-sam-test/pulsar-ids-sam-test.iml" filepath="$PROJECT_DIR$/../pulsar-ids-sam-test/pulsar-ids-sam-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pulsar-set-tests/set-tests.iml" filepath="$PROJECT_DIR$/../pulsar-set-tests/set-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taf-data-abstraction/taf-data-abstraction.iml" filepath="$PROJECT_DIR$/../taf-data-abstraction/taf-data-abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taf-open/taf-open.iml" filepath="$PROJECT_DIR$/../taf-open/taf-open.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taf-user-search-tool/taf-user-search-tool.iml" filepath="$PROJECT_DIR$/../taf-user-search-tool/taf-user-search-tool.iml" />
+    </modules>
+  </component>
+</project>

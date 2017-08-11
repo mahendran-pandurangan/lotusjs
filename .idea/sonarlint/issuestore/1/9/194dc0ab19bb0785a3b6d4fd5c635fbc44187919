@@ -1,0 +1,29 @@
+
+=squid:S1148"#Use a logger to log this exception.(Ú¸ÿÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+fsquid:S1132"LMove the "tablet" string literal on the left side of this string comparison.(¦×¬ùÿÿÿÿ
+:squid:S1166"%Either log or rethrow this exception.(ï­£Ä
+b
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ÂüÎ“
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(®ö Ñ
+ysquid:S1192"_Define a constant instead of duplicating this literal "Could not read the Excel sheet" 4 times.(úÚ‹àùÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(º¢è´úÿÿÿÿ
+g
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¤©æšüÿÿÿÿ
+esquid:S1132"KMove the "phone" string literal on the left side of this string comparison.(İÛ¸Çûÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Š¯Ë¦
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(—ôü“úÿÿÿÿ
+:squid:S1166"%Either log or rethrow this exception.(Æâ­ê
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(º¢è´úÿÿÿÿ
+:squid:S1166"%Either log or rethrow this exception.(¦éïæ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Š¯Ë¦
+8squid:S1148"#Use a logger to log this exception.(Ğ—ë
+Isquid:S1066"/Merge this if statement with the enclosing one.(İÛ¸Çûÿÿÿÿ
+Zsquid:S1226"EIntroduce a new variable instead of reusing the parameter "fileName".(µ«—½
+`squid:S1132"KMove the "start" string literal on the left side of this string comparison.(ÂüÎ“
+Zsquid:S2147"ECombine this catch with the one at line 124, which has the same body.(ï­£Ä
+:squid:S1166"%Either log or rethrow this exception.(‹±ÃÆ

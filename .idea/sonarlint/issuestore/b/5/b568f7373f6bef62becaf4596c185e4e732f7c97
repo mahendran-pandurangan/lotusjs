@@ -1,0 +1,23 @@
+
+qsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(úò÷ 
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(×èŠ¼şÿÿÿÿ
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(Ğñ¯Œÿÿÿÿÿ
+qsquid:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(œ±„Å
+Lsquid:S2629"7Use the built-in formatting to construct this argument.(ÀèÖ
+usquid:S1450"`Remove the "windowBeforeClick" field and declare it as a local variable in the relevant methods.(‹ÈÒ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—æ¯µıÿÿÿÿ
+r
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ö§·ùÿÿÿÿ
+g
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¶Á”›ûÿÿÿÿ
+Osquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Osquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+]squid:S1132"HMove the "NA" string literal on the left side of this string comparison.(‘ì–Ã
+asquid:S1132"GMove the "Y" string literal on the left side of this string comparison.(ÚÍµ¦üÿÿÿÿ
+asquid:S1132"GMove the "Y" string literal on the left side of this string comparison.(¦§î¥ûÿÿÿÿ
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 91 to the 15 allowed.(È¼øúùÿÿÿÿ
+]squid:S2259"HNullPointerException might be thrown as 'actualContent' is nullable here(ÇÒçÊ
+:squid:S1166"%Either log or rethrow this exception.(ßÈ´
+:squid:S1166"%Either log or rethrow this exception.(ÃÁò’
+:squid:S1166"%Either log or rethrow this exception.(ÃÁò’
+Vsquid:S1854"ARemove this useless assignment to local variable "actualContent".(¨£ÃÌ

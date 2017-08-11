@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.akamai.taf.dal:taf-data-abstraction:2.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/akamai/taf/dal/taf-data-abstraction/2.2-SNAPSHOT/taf-data-abstraction-2.2-20160507.211421-3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/akamai/taf/dal/taf-data-abstraction/2.2-SNAPSHOT/taf-data-abstraction-2.2-20160507.211421-3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/akamai/taf/dal/taf-data-abstraction/2.2-SNAPSHOT/taf-data-abstraction-2.2-20160507.211421-3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
